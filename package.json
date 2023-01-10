@@ -1,0 +1,24 @@
+{
+  "name": "namastey-react",
+  "version": "1.0.0",
+  "description": "This is the description of the application ww are creating",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sourav326/namasteyReact.git"
+  },
+  "author": "Sourav Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sourav326/namasteyReact/issues"
+  },
+  "homepage": "https://github.com/Sourav326/namasteyReact#readme",
+  "dependencies": {
+    "parcel": "^2.8.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
